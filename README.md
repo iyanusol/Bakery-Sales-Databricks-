@@ -2,6 +2,8 @@
 
 A hands-on Databricks BI project where I ingested a bakery sales dataset, structured it into tables (CSV/JSON), explored volume + schema behavior, and moved from SQL queries to dashboard-ready visualizations—showing how modern BI can go from raw files → governed tables → insights fast.
 
+
+![Visualization 1](https://github.com/iyanusol/Bakery-Sales-Databricks-/blob/main/Images/visualization-1.png)
 ---
 
 ## 🔎 Project Overview
@@ -125,14 +127,8 @@ This project demonstrates the ability to:
 - **Pipeline mindset**: (Fivetran-style ingestion → analytics layer → BI layer)
 
 ---
+![Databricks 1](https://github.com/iyanusol/Bakery-Sales-Databricks-/blob/main/Images/databricks-1.png)
 
-## ✅ Next Project (Project 30)
-This project is the foundation.  
-**Project 30** will build on this by going deeper into:
-- cleaner data modeling,
-- more complex joins across datasets,
-- stronger KPI definitions,
-- a polished, pinned dashboard story (portfolio-ready).
 
 ---
 
